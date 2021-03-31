@@ -1,0 +1,11 @@
+*.pyc
+*.log
+*.out
+tmp.cpp
+test/
+ea_iid
+ea_non_iid
+ea_conditioning
+ea_restart
+ea_transpose
+.vscode
